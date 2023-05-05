@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "name": "Salário",
+      "amount": 3400,
+      "id": 3
+    },
+    {
+      "name": "Aluguel",
+      "amount": -850,
+      "id": 4
+    },
+    {
+      "name": "Cartão",
+      "amount": -750,
+      "id": 5
+    },
+    {
+      "name": "Oferta",
+      "amount": -100,
+      "id": 6
+    },
+    {
+      "name": "lavanderia",
+      "amount": -20,
+      "id": 7
+    },
+    {
+      "name": "mercado",
+      "amount": -60,
+      "id": 8
+    },
+    {
+      "name": "Plano de Salde",
+      "amount": -650,
+      "id": 9
+    },
+    {
+      "name": "minimo",
+      "amount": -370,
+      "id": 10
+    }
+  ]
+}
